@@ -1,0 +1,15 @@
+.register-form {
+    padding-top: 50px;
+    margin: auto;
+    max-width: 300px;
+}
+
+.register-form-button {
+    width: 100%;
+}
+
+.register_title {
+    padding-top: 200px;
+    text-align: center;
+    color: #0050b3 !important;
+}

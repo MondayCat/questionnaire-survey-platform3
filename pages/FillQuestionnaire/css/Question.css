@@ -1,0 +1,39 @@
+.question {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.question_isNecessary {
+    float: right;
+    color: #fa541c;
+}
+
+.question_title {
+    color: #1890ff;
+    margin-left: 5px;
+}
+
+.question_left {
+    float: left;
+    width: 20%;
+    min-height: 1px;
+}
+
+.question_radio_group {
+    display: block;
+}
+
+.question_textarea {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.question_show_warring {
+    color: #fa541c;
+    font-size: 12px;
+}
+
+.question_span {
+    font-size: 14px;
+    color: #bfbfbf;
+}
